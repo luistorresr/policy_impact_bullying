@@ -1,0 +1,279 @@
+$country
+                 1                  2                  3                  4                  5 
+"Austria         " "Belgium         " "Bulgaria        " "Croatia         " "Cyprus          " 
+                 6                  7                  8                  9                 10 
+"Czech Republic  " "Denmark         " "Estonia         " "Finland         " "France          " 
+                11                 12                 13                 14                 15 
+"Germany         " "Greece          " "Hungary         " "Ireland         " "Italy           " 
+                16                 17                 18                 19                 20 
+"Latvia          " "Lithuania       " "Luxembourg      " "Malta           " "Netherlands     " 
+                21                 22                 23                 24                 25 
+"Poland          " "Portugal        " "Romania         " "Slovakia        " "Slovenia        " 
+                26                 27                 28                 29                 30 
+"Spain           " "Sweden          " "UK              " "Montenegro      " "FYROM           " 
+                31                 32                 33                 34                 35 
+"Serbia          " "Turkey          " "Norway          " "Switzerland     " "Albania         " 
+
+$industry
+                                                                       1 
+                                   "A Agriculture, forestry and fishing" 
+                                                                       2 
+                                                "B Mining and quarrying" 
+                                                                       3 
+                                                       "C Manufacturing" 
+                                                                       4 
+                 "D Electricity, gas, steam and air conditioning supply" 
+                                                                       5 
+ "E Water supply; sewerage, waste management and remediation activities" 
+                                                                       6 
+                                                        "F Construction" 
+                                                                       7 
+"G Wholesale and retail trade; repair of motor vehicles and motorcycles" 
+                                                                       8 
+                                          "H Transportation and storage" 
+                                                                       9 
+                           "I Accommodation and food service activities" 
+                                                                      10 
+                                       "J Information and communication" 
+                                                                      11 
+                                  "K Financial and insurance activities" 
+                                                                      12 
+                                              "L Real estate activities" 
+                                                                      13 
+                   "M Professional, scientific and technical activities" 
+                                                                      14 
+                       "N Administrative and support service activities" 
+                                                                      15 
+       "O Public administration and defence; compulsory social security" 
+                                                                      16 
+                                                           "P Education" 
+                                                                      17 
+                             "Q Human health and social work activities" 
+                                                                      18 
+                                  "R Arts, entertainment and recreation" 
+                                                                      19 
+                                            "S Other service activities" 
+                                                                      20 
+                                            "T Activities of households" 
+                                                                      21 
+             "U Activities of extraterritorial organisations and bodies" 
+
+$hours
+named integer(0)
+
+$age
+named integer(0)
+
+$size
+          1           2           3 
+"9 or less"    "10-249"      "250+" 
+
+$sex
+       0        1 
+  "Male" "Female" 
+
+$contract
+          0           1 
+"Part time" "Full time" 
+
+$Q61o
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$Q61g
+                 0                 25                 50                 75                100 
+          "Always" "Most of the time"        "Sometimes"           "Rarely"            "Never" 
+
+$Q50c
+    0   100 
+ "No" "Yes" 
+
+$Q50d
+    0   100 
+ "No" "Yes" 
+
+$Q50e
+    0   100 
+ "No" "Yes" 
+
+$Q61a
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$Q70e
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q89d
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q61b
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$Q63a
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q63b
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q63c
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q63d
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q63e
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q63f
+                           0                           25                           50 
+         "Strongly disagree"           "Tend to disagree" "Neither agree nor disagree" 
+                          75                          100 
+             "Tend to agree"             "Strongly agree" 
+
+$Q54a
+    0   100 
+ "No" "Yes" 
+
+$Q54b
+    0   100 
+ "No" "Yes" 
+
+$Q54c
+    0   100 
+ "No" "Yes" 
+
+$Q61f
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$Q61c
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$Q61d
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$Q61n
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$bullying
+    0   100 
+ "No" "Yes" 
+
+$Q30g
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$Q30h
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$Q49a
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$Q49b
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$avg_emot_d
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$avg_quant_d
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$avg_pace_d
+    0   100 
+ "No" "Yes" 
+
+$avg_jobctrl_r
+    0   100 
+ "No" "Yes" 
+
+$avg_parti_r
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$avg_col_r
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$avg_super_r
+                 0                 25                 50                 75                100 
+           "Never"           "Rarely"        "Sometimes" "Most of the time"           "Always" 
+
+$avg_demands
+                        0                        10                        25 
+                  "Never"            "Almost never"  "Around 1/4 of the time" 
+                       50                        75                        90 
+"Around half of the time"  "Around 3/4 of the time"  "Almost all of the time" 
+                      100 
+        "All of the time" 
+
+$avg_resources
+    0   100 
+ "No" "Yes" 
+
+$country_index
+NULL
+
+$industry_index
+NULL
+
+$csize_index
+NULL
+
+$law_bullying_yes
+              0             100 
+"Yes, indirect"   "Yes, direct" 
+
